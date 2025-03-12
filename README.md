@@ -13,8 +13,11 @@ Un sistema para gestionar las operaciones de un restaurante, optimizando proceso
 ## Objetivos del Proyecto
 
 -Desarrollar un sistema integral para la gestión de restaurantes.
+
 -Automatizar y optimizar procesos como la toma de pedidos, facturación y control de inventarios.
+
 -Mejorar la eficiencia operativa y la atención al cliente.
+
 -Facilitar la generación de reportes para la toma de decisiones.
 
 ### Alcance Funcional
