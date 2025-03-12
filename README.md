@@ -1,5 +1,4 @@
-# Sistema de Gestión de Restaurantes
-Pagina WEB con el curso de taller de programacion WEB
+# Sistema de Gestión de Reservas en un Hotel
 
 ### Integrantes
 
@@ -10,51 +9,41 @@ Pagina WEB con el curso de taller de programacion WEB
 -Ramos Castro carlos Daniel
 
 ### Alcance del Proyecto
-Un sistema para gestionar las operaciones de un restaurante, optimizando procesos clave para mejorar la eficiencia operativa y la experiencia del cliente.
+Un sistema para la gestión de reservas en un hotel, permitiendo administrar eficientemente las habitaciones, reservas y servicios adicionales para mejorar la experiencia del huésped y la operatividad del establecimiento
 
 ## Objetivos del Proyecto
 
--Desarrollar un sistema integral para la gestión de restaurantes.
+-Desarrollar un sistema integral para la gestión de reservas en hoteles.
 
--Automatizar y optimizar procesos como la toma de pedidos, facturación y control de inventarios.
+-Automatizar y optimizar procesos como la gestión de habitaciones, check-in/check-out y facturación.
 
--Mejorar la eficiencia operativa y la atención al cliente.
+-Mejorar la eficiencia operativa y la experiencia del cliente.
 
--Facilitar la generación de reportes para la toma de decisiones.
+-Facilitar la generación de informes para la toma de decisiones.
 
-## Gestión de Menú
+## Gestión de Habitaciones
 
--Creación y actualización de platos y menús.
+-Administración de tipos de habitaciones y su disponibilidad.
 
--Control de disponibilidad 
+-Control de ocupación y mantenimiento.
 
-## Gestión de Órdenes
+## Reservas
 
--Registro de órdenes, tanto en el local como para delivery.
+-Registro, modificación y cancelación de reservas.
 
--Seguimiento en tiempo real del estado del pedido.
+-Integración con sistemas de reservas en línea.
 
- ## Reservas
+-Notificación automática de confirmaciones y cambios.
 
--Gestión de reservas de mesas
-
-## Gestión de Personal
-
--Administración del personal y asignación de turnos.
-
--Registro de empleados y roles.
-
--Control de asistencia y evaluación de rendimiento.
-
-## Facturación y Control de Pagos
+## Gestión de Facturación
 
 -Generación de facturas y recibos digitales.
 
 -Integración con múltiples métodos de pago (tarjetas, efectivo, pagos en línea).
 
-## Plazos y Cronograma
+-Control de impuestos y descuentos.
 
-El proyecto en las siguientes fases:
+## Plazos y Cronograma
 
 -Análisis y recopilación de requisitos.
 
