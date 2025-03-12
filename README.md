@@ -52,8 +52,6 @@ Un sistema para gestionar las operaciones de un restaurante, optimizando proceso
 
 -Integración con múltiples métodos de pago (tarjetas, efectivo, pagos en línea).
 
--Control de impuestos y descuentos.
-
 ## Entregables
 
 -Documento de requisitos y diseño.
