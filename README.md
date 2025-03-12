@@ -53,3 +53,29 @@ Un sistema para gestionar las operaciones de un restaurante, optimizando proceso
 -Integración con múltiples métodos de pago (tarjetas, efectivo, pagos en línea).
 
 -Control de impuestos y descuentos.
+
+## Entregables
+
+-Documento de requisitos y diseño.
+
+-Desarrollo del sistema con sus respectivos módulos.
+
+-Pruebas funcionales y de seguridad.
+
+-Documentación de usuario y capacitación.
+
+-Implementación y soporte inicial.
+
+## Plazos y Cronograma
+
+El proyecto en las siguientes fases:
+
+-Análisis y recopilación de requisitos.
+
+-Diseño y arquitectura del sistema.
+
+-Desarrollo y pruebas.
+
+-Implementación y capacitación.
+
+-Monitoreo y ajustes.
