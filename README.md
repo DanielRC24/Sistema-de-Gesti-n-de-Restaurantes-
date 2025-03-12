@@ -46,7 +46,7 @@ Un sistema para gestionar las operaciones de un restaurante, optimizando proceso
 
 -Control de asistencia y evaluación de rendimiento.
 
-3.5. Facturación y Control de Pagos
+## Facturación y Control de Pagos
 
 -Generación de facturas y recibos digitales.
 
