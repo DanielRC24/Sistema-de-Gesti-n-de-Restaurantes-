@@ -33,3 +33,23 @@ Un sistema para gestionar las operaciones de un restaurante, optimizando proceso
 -Registro de órdenes, tanto en el local como para delivery.
 
 -Seguimiento en tiempo real del estado del pedido.
+
+ ## Reservas
+
+-Gestión de reservas de mesas
+
+## Gestión de Personal
+
+-Administración del personal y asignación de turnos.
+
+-Registro de empleados y roles.
+
+-Control de asistencia y evaluación de rendimiento.
+
+3.5. Facturación y Control de Pagos
+
+-Generación de facturas y recibos digitales.
+
+-Integración con múltiples métodos de pago (tarjetas, efectivo, pagos en línea).
+
+-Control de impuestos y descuentos.
