@@ -17,3 +17,16 @@ Un sistema para gestionar las operaciones de un restaurante, optimizando proceso
 -Mejorar la eficiencia operativa y la atención al cliente.
 -Facilitar la generación de reportes para la toma de decisiones.
 
+### Alcance Funcional
+
+El SGR incluirá los siguientes módulos:
+
+## Gestión de Menú
+
+-Creación y actualización de platos y menús.
+-Control de disponibilidad 
+
+## Gestión de Órdenes
+
+-Registro de órdenes, tanto en el local como para delivery.
+-Seguimiento en tiempo real del estado del pedido.
