@@ -4,7 +4,9 @@ Pagina WEB con el curso de taller de programacion WEB
 ### Integrantes
 
 -Jeyvin Jesus Ruiz Tafur
+
 -Torres Santos Jhonatan Jocselin
+
 -Ramos Castro carlos Daniel
 
 ### Alcance del Proyecto
